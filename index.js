@@ -1,5 +1,4 @@
 const https = (() => {
-var host = "YOURDOMAIN.github.io";
-if ((host == window.location.host) && (window.location.protocol != "https:"))
-    window.location.protocol = "https";
+if ((window.location.host == 'ginahenderson.me') && (window.location.protocol != 'https:'))
+    window.location.protocol = 'https';
 })();
