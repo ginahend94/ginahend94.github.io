@@ -4106,7 +4106,7 @@ const appWindow = (() => {
                         '2021-02-24',
                         '',
                     ),
-                    url: 'https://ginahenderson.me/etch-a-sketch/',
+                    url: 'https://ginahenderson.me/painter/',
                     type: 'text/html',
                     filename: 'Painter',
                 },
